@@ -1,4 +1,4 @@
-**MNIST Database Handwriting Detection Using Neural-Networks**
+**MNIST Database Handwriting Detection Using Neural-Networks in MATLAB**
 ========================================
 
 by J. Barhydt<sup>1</sup>
