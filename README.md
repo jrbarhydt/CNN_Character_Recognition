@@ -180,9 +180,9 @@ runs and watching the accuracy convergence rate.
 > **Figure 2. Single-Layer Linear Neural Network Handwritten Digit
 > Prediction Accuracy**
 
-> <img src="media/image5.png" width="499" height="311">
+> <img src="media/image5.png" width="750" height="450">
 
-> **Figure 2. Multi-Layer Convolutional Neural Network Handwritten Digit
+> **Figure 3. Multi-Layer Convolutional Neural Network Handwritten Digit
 > Prediction Accuracy (above) and Loss Function (below) Shown over 468
 > Iterations in 2 epochs**
 
